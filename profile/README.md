@@ -1,12 +1,35 @@
-## Hi there 👋
+# Tatzeroko
 
-<!--
+Tatzeroko is an open-source tooling project focused on developer productivity and language tooling.
 
-**Here are some ideas to get you started:**
+The project currently explores language-aware tooling around Salesforce development, with an emphasis on clarity, correctness, and maintainability.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🔧 Current focus
+
+- Language tooling experiments
+- Editor integrations
+- Developer workflow automation
+
+## 📦 Main repository
+
+### **Tatzeroko Language Tools**
+
+https://github.com/tatzeroko/language-tools
+
+Contains the core language tooling currently under development.
+
+## 🚧 Status
+
+Tatzeroko is in early development.
+
+APIs, features, and structure may change as the project evolves.
+
+## 💬 Feedback
+
+Issues and discussions are welcome.
+
+If you’re interested in the project or have ideas to share, feel free to open an issue.
+
+## 📜 License
+
+Open source under the MIT license unless stated otherwise.
